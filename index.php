@@ -1,3 +1,3 @@
 
 <?php
-echo "SayOn Line App. Robot";
+echo "RecBot Line App. Robot";
